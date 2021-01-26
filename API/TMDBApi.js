@@ -10,3 +10,4 @@ export function getFilmsFromApiWithSearchedText(text, page) {
 export function getImageFromApi(name) {
     return 'https://image.tmdb.org/t/p/w300' + name;
 }
+//test modif
